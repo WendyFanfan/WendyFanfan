@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Wendy,范佳怡
+- 👋 Hi, I’m 范佳怡(Jiayi Fan),Just call me wendy is Okay
 - 👀 I’m interested in HTML5,CSS,JavaScript,JQuery....
 - 🌱 I’m currently learning VUE,REACT,node.js
-- 💞️ I’m looking to collaborate on anyone who like code program.
-- 📫 How to reach me wendyfann@foxmail.com(email),fffffff22333(wechat),wendyfanfann(Instamgram)
-- Study in SWPU,Recently in Chengdu,Sichuan,China
--  来自于中国的前端开发者，一个热爱艺术的程序媛。欢迎加我微信找我玩！！！
-
+- 📫 How to reach me jiayifan076(email)
+- Study in SWJU,Recently in Chengdu,Sichuan,China.
+- looking for a job in Germany or Europe
+-  来自于中国的前端开发者，一个热爱艺术的程序媛。欢迎找我玩！！！
